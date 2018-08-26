@@ -1,0 +1,1999 @@
+1	и	conj	and
+2	в во	prep	in, inside of, at
+3	не	particle	not, no
+4	он	pron	he
+5	на	prep	on, over, to
+6	я	pron	I
+7	что	conj	that
+8	тот	pron	that
+9	быть	verb	to be
+10	с со	prep	with, from, since
+11	а	conj	but, whereas
+12	весь	pron	all, entire
+13	это	pron	this, it
+14	как	adv	how
+15	она	pron	she
+16	по	prep	on, along
+17	но	conj	but
+18	они	pron	they
+19	к ко	prep	to, towards
+20	у	prep	at, close to
+21	из изо	prep	from, out of
+22	мы	pron	we
+23	за	prep	for, behind
+24	ты	pron	you, thou
+25	вы	pron	you
+26	так	adv	so, thus
+27	сказать	verb	to tell
+28	от	prep	off, from
+29	этот	pron	this
+30	который	pron	which
+31	мочь	verb	can
+32	о об обо	prep	about, on the topic of
+33	человек	noun	person
+34	один	card	one
+35	еще	adv	still, yet, more
+36	такой	pron	such
+37	только	adv	only
+38	себя	pron	myself, himself, herself, itself
+39	свое	pron	its, own
+40	какой	pron	what, which
+41	для	prep	for
+42	уже уж	adv	already
+43	когда	adv	when
+44	кто	pron	who
+45	вот	particle	here is, there
+46	да	adv	yes
+47	год	noun	year
+48	знать	verb	to know
+49	если	conj	if, in case
+50	до	prep	until, up to
+51	говорить	verb	to speak
+52	или	conj	or
+53	мой	pron	mine
+54	время	noun	time
+55	рука	noun	hand
+56	самый	pron	most
+57	нет	adv	no
+58	ни	particle	not a, in no
+59	стать	verb	to become
+60	большой	adj	big
+61	наш	pron	ours
+62	даже	adv	even
+63	другой	pron	another
+64	свой	pron	its, own
+65	дело	noun	business
+66	под	prep	under
+67	где	adv	where
+68	ну	interj	well, come on
+69	сам	pron	myself, yourself, itself
+70	есть	verb	to be, to eat
+71	раз	noun	time, once
+72	два	card	two
+73	чем	conj	than, instead of
+74	там	adv	there
+75	глаз	noun	eye
+76	первый	ord	first
+77	день	noun	day
+78	жизнь	noun	life
+79	тут	adv	here
+80	ничто	pron	nothing
+81	потом	adv	then, afterwards
+82	очень	adv	very
+83	ли	conj	whether
+84	при	prep	at, with, at the time of
+85	хотеть	verb	to want
+86	надо	predicate	need, one must
+87	голова	noun	head
+88	без	prep	without
+89	видеть	verb	to see
+90	теперь	adv	now
+91	идти	verb	to go
+92	друг	noun	friend
+93	сейчас	adv	now
+94	стоять	verb	to stand
+95	дом	noun	house
+96	тоже	adv	too
+97	после	prep	after
+98	можно	predicate	it is possible, one may
+99	слово	noun	word
+100	через	prep	across, through, after
+101	место	noun	place
+102	думать	verb	to think
+103	здесь	adv	here
+104	спросить	verb	to ask
+105	лицо	noun	face
+106	тогда	adv	then
+107	что	pron	that, which
+108	должный	adj	due, proper
+109	ведь	conj	in fact
+110	новый	adj	new
+111	каждый	pron	everyone
+112	хороший	adj	good
+113	жить	verb	to live
+114	почему	adv	why
+115	потому	adv	that is why
+116	сторона	noun	side
+117	смотреть	verb	to look
+118	иметь	verb	to have
+119	просто	adv	simply
+120	понять	verb	to understand
+121	сидеть	verb	to sit
+122	нога	noun	leg
+123	делать	verb	to do
+124	сделать	verb	to make
+125	вдруг	adv	suddenly
+126	никто	pron	no one, nobody
+127	работа	noun	work
+128	перед	prep	before, in front of
+129	ваш	pron	yours
+130	нужный	adj	necessary
+131	над надо	prep	above, on top of
+132	взять	verb	to take
+133	конечно	adv	certainly
+134	понимать	verb	to understand
+135	дверь	noun	door
+136	казаться	verb	to seem
+137	три	card	three
+138	конец	noun	end
+139	город	noun	city
+140	несколько	adv	somewhat, slightly
+141	начать	verb	to begin
+142	голос	noun	voice
+143	час	noun	hour
+144	пока	adv	while
+145	последний	adj	last
+146	более	adv	more
+147	земля	noun	ground
+148	хорошо	adv	well
+149	хотя	conj	although, though
+150	сила	noun	force
+151	вода	noun	water
+152	второй	ord	second
+153	увидеть	verb	to see
+154	всегда	adv	always
+155	давать	verb	to give
+156	случай	noun	case
+157	куда	adv	where
+158	пойти	verb	to go
+159	стол	noun	table
+160	машина	noun	machine, car
+161	мир	noun	world
+162	ночь	noun	night
+163	женщина	noun	woman
+164	остаться	verb	to remain
+165	сразу	adv	at once
+166	совсем	adv	absolutely,entirely
+167	ребенок	noun	child
+168	выйти	verb	to leave
+169	вид	noun	kind, appearance
+170	отец	noun	father
+171	вопрос	noun	question
+172	дать	verb	to give
+173	работать	verb	to work
+174	оказаться	verb	to appear
+175	ряд	noun	row, line
+176	почти	adv	almost
+177	снова	adv	again
+178	старый	adj	old
+179	страна	noun	country
+180	твой	pron	yours, thy
+181	между	prep	between
+182	ответить	verb	to answer
+183	много	adv	much, lots of
+184	война	noun	war
+185	подумать	verb	to think
+186	деньги	noun	money
+187	любить	verb	to love
+188	значить	verb	to mean
+189	белый	adj	white
+190	главный	adj	main
+191	минута	noun	minute
+192	лишь	adv	only, as soon as
+193	товарищ	noun	comrade
+194	опять	adv	again
+195	ждать	verb	to wait
+196	однако	adv	however, yet, still
+197	правда	noun	truth
+198	посмотреть	verb	to look
+199	про	prep	about
+200	никогда	adv	never
+201	будто словно	conj	as if, as though
+202	часть	noun	part
+203	именно	adv	specifically, exactly
+204	найти	verb	to find
+205	дорога	noun	road
+206	свет	noun	light
+207	жена	noun	wife
+208	никакой	pron	any, none
+209	лежать	verb	to lay
+210	окно	noun	window
+211	россия	noun	russia
+212	мать	noun	mother
+213	решить	verb	to solve
+214	получить	verb	to receive
+215	москва	noun	Moscow
+216	писать	verb	to write
+217	улица	noun	street
+218	вернуться	verb	to return
+219	вообще	adv	in general
+220	некоторый	pron	some, certain
+221	далекий	adj	far, distant
+222	маленький	adj	small
+223	считать	verb	to consider, to count
+224	комната	noun	room
+225	утро	noun	morning
+226	советский	adj	soviet
+227	вечер	noun	evening
+228	сегодня	adv	today
+229	душа	noun	soul
+230	книга	noun	book
+231	плечо	noun	shoulder
+232	вместе	adv	together
+233	таки	particle	still, after all, in spite of
+234	чуть	adv	hardly, only
+235	пол	noun	floor
+236	помнить	verb	to remember
+237	сколько	adv	how many, how much
+238	народ	noun	people
+239	хоть	particle	even, though
+240	взгляд	noun	glance, sight
+241	русский	adj	russian
+242	зачем	adv	what for
+243	история	noun	history
+244	полный	adj	full
+245	узнать	verb	to learn, to recognize
+246	любой	pron	any
+247	бог	noun	god
+248	прийти	verb	to come
+249	ходить	verb	to walk, to go
+250	заметить	verb	to notice
+251	известный	adj	known
+252	палец	noun	finger, toe
+253	наконец	adv	at last
+254	общий	adj	general
+255	имя	noun	name
+256	назад	adv	back
+257	бывать	verb	to happen, to occur
+258	мысль	noun	idea
+259	слышать	verb	to hear
+260	уйти	verb	to leave
+261	прошлый	adj	past, last
+262	бояться	verb	to be afraid
+263	быстро	adv	quickly
+264	давно	adv	long ago
+265	слушать	verb	to listen
+266	прямо	adv	directly
+267	разговор	noun	conversation
+268	долго	adv	(for) a long time
+269	нельзя	predicate	it is impossible, must not
+270	похожий	adj	similar
+271	право	noun	right
+272	лес	noun	woods, forest
+273	пять	card	five
+274	глядеть	verb	to look
+275	сын	noun	son
+276	путь	noun	way
+277	тысяча	card	one thousand
+278	пора	noun	season, time
+279	красный	adj	red
+280	сесть	verb	to sit down
+281	оно	pron	it
+282	кроме	prep	except for
+283	стена	noun	wall
+284	оставаться	verb	to remain
+285	высокий	adj	high
+286	хотеться	verb	to be wanted
+287	совершенно	adv	absolutely
+288	поэтому	adv	therefore
+289	написать	verb	to write
+290	пусть	particle	let
+291	ранний	adj	early
+292	читать	verb	to read
+293	чувствовать	verb	to feel
+294	спина	noun	back
+295	месяц	noun	month
+296	целый	adj	whole
+297	вести	verb	to lead, to drive
+298	молодой	adj	young
+299	огромный	adj	huge
+300	тело	noun	body
+301	настоящий	adj	present, real, genuine
+302	продолжать	verb	to continue
+303	точно	adv	precisely
+304	язык	noun	language
+305	мама	noun	mum
+306	среди	prep	among
+307	старик	noun	old man
+308	успеть	verb	to be in time
+309	смерть	noun	death
+310	власть	noun	authority, power
+311	мальчик	noun	boy
+312	также	adv	also
+313	брать	verb	to take
+314	образ	noun	image
+315	письмо	noun	letter
+316	живой	adj	alive
+317	отношение	noun	attitude
+318	сердце	noun	heart
+319	начальник	noun	chief
+320	пройти	verb	to pass
+321	начинать	verb	to begin
+322	вокруг	prep	around
+323	появиться	verb	to appear
+324	черный	adj	black
+325	девушка	noun	girl
+326	солдат	noun	soldier
+327	иногда	adv	sometimes
+328	забыть	verb	to forget
+329	вспомнить	verb	to recollect
+330	небо	noun	sky
+331	затем	adv	then
+332	система	noun	system
+333	воздух	noun	air
+334	оба	adj	both
+335	собственный	adj	own
+336	пытаться	verb	to try
+337	находиться	verb	be found, to be
+338	держать	verb	to hold
+339	просить	verb	to ask
+340	показать	verb	to show
+341	разный	adj	different
+342	ребята	noun	children
+343	брат	noun	brother
+344	квартира	noun	apartment
+345	откуда	adv	from where, whence
+346	выходить	verb	to come out
+347	четыре	card	four
+348	поднять	verb	to lift
+349	генерал	noun	general
+350	называть	verb	to name
+351	третий	ord	third
+352	послать	verb	to send
+353	подойти	verb	to approach
+354	рассказать	verb	to tell
+355	особенно	adv	especially
+356	кровь	noun	blood
+357	встать	verb	to stand up
+358	шаг	noun	step
+359	спрашивать	verb	to ask
+360	хозяин	noun	owner
+361	внимание	noun	attention
+362	следовать	verb	to follow
+363	поставить	verb	to put
+364	бросить	verb	to throw
+365	вроде	prep	like, "kinda"
+366	великий	adj	great
+367	например	adv	for example
+368	оставить	verb	to leave, to give up, to keep
+369	туда	adv	there
+370	действительно	adv	really
+371	мало	adv	a little, few
+372	школа	noun	school
+373	равно	adv	equally
+374	труд	noun	labour, work
+375	капитан	noun	captain
+376	сюда	adv	here, this way
+377	слишком	adv	too
+378	следующий	adj	following
+379	тяжелый	adj	heavy
+380	парень	noun	guy
+381	группа	noun	group
+382	солнце	noun	sun
+383	любовь	noun	love
+384	отвечать	verb	to answer
+385	ухо	noun	ear
+386	уходить	verb	to leave, to go away
+387	неделя	noun	week
+388	войти	verb	to enter
+389	чтоб чтобы	conj	so that, in order to
+390	рассказывать	verb	to tell
+391	молчать	verb	to be silent
+392	ответ	noun	answer
+393	десять	card	ten
+394	спать	verb	to sleep
+395	готовый	adj	ready
+396	являться	verb	to appear
+397	двадцать	card	twenty
+398	берег	noun	coast
+399	помощь	noun	help
+400	мужчина	noun	man
+401	момент	noun	moment
+402	искать	verb	to search
+403	остановиться	verb	to stop
+404	личный	adj	personal
+405	газета	noun	newspaper
+406	длинный	adj	long
+407	видно	adv	obviously, evidently
+408	против	prep	against
+409	верить	verb	to trust
+410	чувство	noun	feeling
+411	порядок	noun	order
+412	семья	noun	family
+413	армия	noun	army
+414	немного	adv	a little
+415	играть	verb	to play
+416	возможность	noun	opportunity
+417	сильный	adj	strong
+418	разве	adv	perhaps, unless
+419	впрочем	adv	however
+420	становиться	verb	to become
+421	движение	noun	movement
+422	муж	noun	husband
+423	нос	noun	nose
+424	тихо	adv	silently
+425	знакомый	adj	friend
+426	огонь	noun	fire
+427	двор	noun	yard, outdoors
+428	смочь	verb	can
+429	иной	pron	other
+430	бежать	verb	to run
+431	черный	noun	black
+432	скорый	adj	fast
+433	наверное	adv	probably
+434	приехать	verb	to arrive
+435	простой	adj	simple
+436	принять	verb	to accept
+437	угол	noun	corner
+438	смысл	noun	sense
+439	открыть	verb	to open
+440	общество	noun	society
+441	грудь	noun	breast
+442	военный	adj	military
+443	происходить	verb	to occur, to descend from
+444	дерево	noun	tree
+445	немец	noun	german
+446	губа	noun	lip
+447	снег	noun	snow
+448	либо	adv	or, either..or
+449	дядя	noun	uncle
+450	ехать	verb	to ride, to drive
+451	очередь	noun	turn, queue
+452	кой	pron	which
+453	форма	noun	form
+454	закон	noun	law
+455	собираться	verb	to gather
+456	показаться	verb	to seem
+457	собака	noun	dog
+458	домой	adv	home
+459	попасть	verb	to get into, to hit a target
+460	услышать	verb	to hear
+461	приходить	verb	to come
+462	кричать	verb	to shout
+463	состояние	noun	condition
+464	произойти	verb	to occur
+465	сон	noun	dream
+466	подняться	verb	to rise
+467	ладно	adv	all right
+468	карман	noun	pocket
+469	часто	adv	often
+470	случиться	verb	to happen
+471	зеленый	adj	green
+472	девочка	noun	girl
+473	камень	noun	stone
+474	сначала	adv	first
+475	ветер	noun	wind
+476	проблема	noun	problem
+477	связь	noun	communication
+478	стараться	verb	to try
+479	гость	noun	visitor
+480	лучший	adj	best
+481	зуб	noun	tooth
+482	мера	noun	measure
+483	век	noun	century
+484	поехать	verb	to depart, to drive
+485	номер	noun	number
+486	странный	adj	strange
+487	страшный	adj	terrible
+488	средство	noun	means
+489	единственный	adj	unique
+490	действие	noun	action
+491	ход	noun	course
+492	государство	noun	state
+493	российский	adj	of the Russian Federation
+494	короткий	adj	short
+495	уметь	verb	to know how, to be able
+496	данный	adj	given
+497	необходимый	adj	necessary
+498	глава	noun	chief, chapter
+499	партия	noun	party(political), group
+500	край	noun	edge, outskirt
+501	вперед	adv	forward
+502	река	noun	river
+503	судьба	noun	destiny
+504	рота	noun	company(military), squadron
+505	добрый	adj	kind
+506	речь	noun	speech
+507	заниматься	verb	to be engaged
+508	вполне	adv	quite, completely
+509	положить	verb	to put
+510	причина	noun	reason
+511	гора	noun	mountain
+512	никак	adv	in no way
+513	страх	noun	fear
+514	темный	adj	dark
+515	едва	adv	hardly
+516	море	noun	sea
+517	зал	noun	hall
+518	серый	adj	grey
+519	врач	noun	doctor
+520	возле	prep	beside, by, near
+521	довольно	adv	enough
+522	командир	noun	commander
+523	основной	adj	basic
+524	медленно	adv	slowly
+525	ясно	adv	clearly
+526	боль	noun	pain
+527	господин	noun	mister
+528	вчера	adv	yesterday
+529	вещь	noun	thing
+530	результат	noun	result
+531	число	noun	number, date
+532	цель	noun	purpose
+533	начаться	verb	to begin
+534	легкий	adj	easy, light
+535	звать	verb	to call
+536	положение	noun	position
+537	бывший	adj	former
+538	писатель	noun	writer
+539	далеко	adv	far
+540	бумага	noun	paper
+541	проходить	verb	to pass
+542	удаться	verb	to succeed
+543	план	noun	plan
+544	черта	noun	feature
+545	около	prep	nearby
+546	подобный	adj	similar
+547	широкий	adj	wide
+548	завтра	adv	tomorrow
+549	прийтись	verb	to come, to fall within
+550	документ	noun	document
+551	снять	verb	to remove
+552	плохо	adv	badly
+553	представить	verb	to present
+554	прежний	adj	former
+555	произнести	verb	to say, to pronounce
+556	небольшой	adj	small
+557	пустой	adj	empty
+558	обычно	adv	usually
+559	знать	noun	aristocracy, nobility
+560	волос	noun	hair
+561	объяснить	verb	to explain
+562	пара	noun	pair
+563	след	noun	trace
+564	представлять	verb	to represent
+565	решение	noun	decision
+566	купить	verb	to buy
+567	существовать	verb	to exist
+568	особый	adj	special
+569	иначе	adv	otherwise
+570	умереть	verb	to die
+571	класс	noun	class
+572	условие	noun	condition
+573	центр	noun	center
+574	красивый	adj	beautiful
+575	скоро	adv	soon
+576	прежде	adv	previously, before
+577	пить	verb	to drink
+578	встреча	noun	meeting
+579	директор	noun	director
+580	рубль	noun	rouble
+581	однажды	adv	once
+582	служба	noun	service
+583	процесс	noun	process
+584	близкий	adj	close one
+585	чистый	adj	pure, clean
+586	президент	noun	president
+587	память	noun	memory
+588	сквозь	prep	through
+589	сообщить	verb	to inform
+590	человеческий	adj	human
+591	назвать	verb	to name
+592	сей	pron	this
+593	герой	noun	hero
+594	дух	noun	spirit
+595	худой	adj	thin
+596	мимо	prep	past,by
+597	возможно	adv	probably
+598	враг	noun	enemy
+599	убить	verb	to kill
+600	кстати	adv	by the way
+601	чужой	adj	another&#39, s
+602	согласиться	verb	to agree
+603	счастье	noun	happiness
+604	удар	noun	blow, impact
+605	старший	adj	senior
+606	вместо	prep	instead of
+607	самолет	noun	aircraft, aeroplane
+608	трудно	adv	difficult
+609	улыбнуться	verb	to smile
+610	деревня	noun	village
+611	картина	noun	picture
+612	улыбаться	verb	to smile
+613	почувствовать	verb	to feel
+614	будущее	noun	future
+615	коридор	noun	corridor
+616	толстый	adj	thick, fat
+617	нравиться	verb	to like
+618	правый	adj	right
+619	больной	adj	ill, sick
+620	ум	noun	mind
+621	менее	adv	less
+622	привести	verb	to bring, to lead
+623	предложить	verb	to offer
+624	вызвать	verb	to cause
+625	кабинет	noun	cabinet
+626	многие	pron	many
+627	легко	adv	easily
+628	колено	noun	knee
+629	хватать	verb	to suffice, to grasp
+630	принести	verb	to bring, to yield
+631	всякое	pron	every, any
+632	бутылка	noun	bottle
+633	государственный	adj	state
+634	рабочий	adj	worker&#39, s, working
+635	сто	card	hundred
+636	телефон	noun	phone
+637	компания	noun	company
+638	крупный	adj	large
+639	открытый	adj	open
+640	доктор	noun	doctor
+641	принимать	verb	to accept
+642	вниз	adv	downwards
+643	автор	noun	author
+644	мужик	noun	peasant, boor
+645	вовсе	adv	at all
+646	интерес	noun	interest
+647	провести	verb	to lead, to carry out
+648	хватить	verb	to suffice
+649	двое	card	two
+650	холодный	adj	cold
+651	счет	noun	account
+652	спокойно	adv	calmly, easy
+653	местный	adj	local
+654	лейтенант	noun	lieutenant
+655	оружие	noun	weapon
+656	игра	noun	game
+657	приходиться	verb	must, to come, to fall within
+658	крикнуть	verb	to shout
+659	попросить	verb	to ask
+660	требовать	verb	to demand
+661	бой	noun	fight
+662	качество	noun	quality
+663	смеяться	verb	to laugh
+664	родной	adj	native
+665	желтый	adj	yellow
+666	член	noun	member
+667	достаточно	adv	enough, sufficient
+668	хлеб	noun	bread
+669	прислать	verb	to send
+670	золотой	adj	gold
+671	политический	adj	political
+672	обычный	adj	usual
+673	развитие	noun	development
+674	важный	adj	important
+675	банк	noun	bank
+676	совет	noun	advice
+677	столько	adv	so many
+678	возвращаться	verb	to come back
+679	трубка	noun	tube
+680	ладонь	noun	palm
+681	железный	adj	iron
+682	оказываться	verb	to appear
+683	институт	noun	institute
+684	потерять	verb	to lose
+685	молодая	noun	young, bride
+686	правительство	noun	government
+687	остальной	pron	other
+688	выпить	verb	to drink
+689	показывать	verb	to show
+690	идея	noun	idea
+691	точка	noun	point
+692	уровень	noun	level
+693	профессор	noun	professor
+694	наука	noun	science
+695	событие	noun	event
+696	союз	noun	union
+697	король	noun	king
+698	половина	noun	half
+699	метр	noun	meter
+700	отдать	verb	to give
+701	вера	noun	belief
+702	кивнуть	verb	to nod
+703	область	noun	area
+704	исчезнуть	verb	to disappear
+705	ситуация	noun	situation
+706	кухня	noun	kitchen
+707	надежда	noun	hope
+708	род	noun	family, kin, kind
+709	офицер	noun	officer
+710	синий	adj	blue
+711	течение	noun	current, flow
+712	информация	noun	information
+713	получиться	verb	to turn out
+714	теплый	adj	warm
+715	молча	adv	silently
+716	немецкий	adj	german
+717	видимо	adv	probably
+718	бить	verb	to beat
+719	частый	adj	frequent
+720	поздний	adj	late
+721	создать	verb	to create
+722	сорок	card	forty
+723	граница	noun	border
+724	слеза	noun	tear
+725	поскольку	conj	since, as
+726	рассказ	noun	story
+727	вспоминать	verb	to recoll
+728	получать	verb	to receive
+729	трава	noun	grass
+730	шесть	card	six
+731	упасть	verb	to fall
+732	тридцать	card	thirty
+733	борьба	noun	struggle
+734	достать	verb	to get
+735	шея	noun	neck
+736	десяток	noun	ten
+737	надеяться	verb	to hope
+738	толпа	noun	crowd
+739	московский	adj	moscow
+740	родитель	noun	parent
+741	правило	noun	rule
+742	слать	verb	to send, to dispatch
+743	секунда	noun	second
+744	вздохнуть	verb	to sigh
+745	уверенный	adj	confident
+746	неизвестный	adj	unknown
+747	программа	noun	program
+748	фамилия	noun	surname
+749	звук	noun	sound
+750	роман	noun	novel
+751	неожиданно	adv	unexpectedly
+752	вон	adv	there, out
+753	тонкий	adj	thin
+754	чай	noun	tea
+755	внутренний	adj	internal
+756	роль	noun	role
+757	сознание	noun	consciousness
+758	верный	adj	faithful, true
+759	команда	noun	command
+760	спасибо	noun	thanks
+761	прекрасный	adj	splendid, fine
+762	петь	verb	to sing
+763	магазин	noun	shop
+764	впервые	adv	for the first time
+765	американский	adj	american
+766	ворота	noun	gate
+767	простить	verb	to forgive
+768	полковник	noun	colonel
+769	природа	noun	nature
+770	сильно	adv	strongly
+771	запах	noun	smell
+772	поэт	noun	poet
+773	район	noun	area
+774	лист	noun	leaf, sheet
+775	перестать	verb	to cease, to stop
+776	стекло	noun	glass
+777	выше	adv	above, higher
+778	количество	noun	quantity
+779	этаж	noun	floor, level of a building
+780	тип	noun	type
+781	пожаловать	verb	to grant, to welcome
+782	свобода	noun	freedom
+783	сапог	noun	boot
+784	суд	noun	court
+785	чей	pron	whose
+786	выход	noun	exit, output
+787	дед	noun	grandfather
+788	лоб	noun	forehead
+789	кресло	noun	armchair
+790	дочь	noun	daughter
+791	серьезный	adj	serious
+792	ожидать	verb	to expect
+793	характер	noun	character
+794	опыт	noun	experience
+795	площадь	noun	area, square, plaza
+796	вновь	adv	again
+797	быстрый	adj	fast
+798	появляться	verb	to appear
+799	управление	noun	management
+800	связанный	adj	connected, bundled
+801	мнение	noun	opinion
+802	впереди	adv	in front of, ahead of
+803	использовать	verb	to use
+804	взглянуть	verb	to look
+805	революция	noun	revolution
+806	долгий	adj	long
+807	улыбка	noun	smile
+808	рост	noun	growth
+809	лошадь	noun	horse
+810	тихий	adj	silent, quiet
+811	глубокий	adj	deep
+812	левый	adj	left
+813	кожа	noun	leather, skin
+814	пришлый	adj	alien, newly come
+815	звезда	noun	star
+816	поезд	noun	train
+817	протянуть	verb	to stretch
+818	служить	verb	to serve
+819	сестра	noun	sister
+820	пожалуйста	adv	please
+821	уехать	verb	to leave
+822	поверить	verb	to believe
+823	баба	noun	woman
+824	нечего	pron	need not, no need
+825	цветок	noun	flower
+826	дождь	noun	rain
+827	желание	noun	desire
+828	болезнь	noun	illness
+829	вызывать	verb	to cause
+830	называться	verb	be referred to as, to be called
+831	встретить	verb	to meet
+832	сосед	noun	neighbour
+833	пример	noun	example
+834	разговаривать	verb	to talk
+835	позволить	verb	to allow
+836	обнаружить	verb	to find out
+837	дама	noun	lady
+838	повернуться	verb	to turn
+839	орган	noun	organ, agency, body
+840	поле	noun	field
+841	ящик	noun	box
+842	цена	noun	price
+843	подходить	verb	to approach
+844	горячий	adj	hot
+845	милый	adj	dear, darling
+846	слабый	adj	weak
+847	ах	interj	ah, ugh, jeepers
+848	карта	noun	card, map
+849	слава	noun	glory
+850	радость	noun	joy, pleasure
+851	зато	adv	but, on the other hand
+852	тень	noun	shadow
+853	висеть	verb	to hang
+854	операция	noun	operation
+855	выглядеть	verb	to look, to seem
+856	действовать	verb	to operate
+857	нести	verb	to bear, to carry
+858	музыка	noun	music
+859	голубой	adj	blue, azure
+860	гореть	verb	to burn
+861	завод	noun	factory
+862	добавить	verb	to add
+863	лето	noun	summer
+864	весьма	adv	very, greatly
+865	садиться	verb	to sit down
+866	ибо	conj	because, for
+867	мелкий	adj	small, fine
+868	помогать	verb	to help
+869	любимый	adj	beloved, favourite
+870	станция	noun	station
+871	повод	noun	occasion
+872	воля	noun	will
+873	литература	noun	literature
+874	детский	adj	children&#39, s
+875	правильно	adv	correctly
+876	дурак	noun	fool
+877	приказ	noun	order
+878	гражданин	noun	citizen
+879	интересно	adv	interestingly
+880	счастливый	adj	happy
+881	крыша	noun	roof
+882	цвет	noun	color
+883	веселый	adj	cheerful
+884	повторить	verb	to repeat
+885	невозможно	adv	impossible
+886	статья	noun	article, clause
+887	круг	noun	circle
+888	столь	adv	so, such
+889	факт	noun	fact
+890	бок	noun	side
+891	относиться	verb	to relate, to belong
+892	причем	adv	moreover, at that
+893	учиться	verb	to study
+894	стул	noun	chair
+895	удивиться	verb	to be surprised
+896	средний	adj	average
+897	современный	adj	modern
+898	лагерь	noun	camp
+899	войско	noun	army
+900	недавно	adv	recently
+901	удовольствие	noun	pleasure
+902	вино	noun	wine
+903	возраст	noun	age
+904	погибнуть	verb	to perish, to die
+905	способный	adj	capable, talented
+906	лестница	noun	ladder
+907	держаться	verb	to hold on
+908	министр	noun	minister
+909	фронт	noun	front
+910	передать	verb	to transfer, to pass
+911	обратно	adv	back
+912	стрелять	verb	to shoot
+913	петербург	noun	peterburg
+914	неужели	particle	really, can it be true
+915	сад	noun	garden
+916	проводить	verb	to spend
+917	задача	noun	problem
+918	острый	adj	sharp
+919	мол	noun	pier, breakwater
+920	осторожно	adv	cautiously
+921	свободный	adj	free
+922	входить	verb	to enter
+923	темнота	noun	darkness
+924	название	noun	name
+925	двигаться	verb	to move
+926	возникнуть	verb	to arise, to appear
+927	большинство	noun	majority
+928	организация	noun	organization
+929	дым	noun	smoke
+930	высший	adj	highest
+931	километр	noun	kilometer
+932	позвонить	verb	to call
+933	закричать	verb	to cry, to shout
+934	ради	prep	for the sake of, because of
+935	председатель	noun	chairman
+936	приказать	verb	to order
+937	прямой	adj	straight
+938	прочее	pron	other, miscellaneous
+939	слегка	adv	slightly
+940	попробовать	verb	to try
+941	вскоре	adv	soon
+942	вверх	adv	upwards
+943	ночной	adj	night
+944	доллар	noun	dollar
+945	носить	verb	to carry, to wear
+946	выражение	noun	expression
+947	кончиться	verb	to terminate, to expire
+948	плакать	verb	to cry
+949	танк	noun	tank, land battleship
+950	мешать	verb	to stir, to interfere
+951	сухой	adj	dry
+952	зима	noun	winter
+953	знак	noun	sign
+954	семь	card	seven
+955	получаться	verb	to turn out
+956	мозг	noun	brain
+957	учитель	noun	teacher
+958	желать	verb	to wish
+959	обязательно	adv	necessarily, compulsory
+960	майор	noun	major
+961	привыкнуть	verb	to get used
+962	понятно	adv	clearly, understandable
+963	судить	verb	to judge
+964	тишина	noun	silence
+965	кровать	noun	bed
+966	очередной	adj	next, sequential
+967	деятельность	noun	activity
+968	сша	noun	usa
+969	рыба	noun	fish
+970	щека	noun	cheek
+971	птица	noun	bird
+972	обещать	verb	to promise
+973	страшно	adv	terribly, ghastly
+974	ставить	verb	to put, to place
+975	странно	adv	strange
+976	папа	noun	daddy
+977	касаться	verb	to concern
+978	водка	noun	vodka
+979	здание	noun	building
+980	колоть	verb	to prick, to split
+981	зеркало	noun	mirror
+982	собраться	verb	to gather
+983	искусство	noun	art
+984	начало	noun	beginning
+985	пахнуть	verb	to smell
+986	возникать	verb	to arise
+987	несмотря	prep	despite
+988	вагон	noun	carriage, railroad car
+989	отсюда	adv	from here, hence
+990	автомат	noun	the automatic device
+991	свежий	adj	fresh
+992	мокрый	adj	wet
+993	милиция	noun	police
+994	срок	noun	period
+995	боевой	adj	combat
+996	спокойный	adj	calm
+997	одежда	noun	clothing
+998	здоровый	adj	healthy
+999	корабль	noun	ship
+1000	кулак	noun	fist, claw, kulak
+1001	художник	noun	artist
+1002	курс	noun	course
+1003	куст	noun	bush
+1004	состав	noun	composition, structure
+1005	западный	adj	western
+1006	дорогой	adj	expensive, valuable, darling
+1007	лететь	verb	to fly
+1008	явно	adv	clearly
+1009	чудо	noun	miracle
+1010	крайний	adj	outermost, extreme
+1011	кусок	noun	piece
+1012	интересный	adj	interesting
+1013	заявить	verb	to state
+1014	оттуда	adv	from there
+1015	фирма	noun	firm
+1016	миллион	card	million
+1017	разуметься	verb	be meant, be understood
+1018	пространство	noun	space
+1019	тема	noun	theme
+1020	начинаться	verb	to begin, get going
+1021	мировой	adj	world
+1022	ударить	verb	to strike
+1023	напоминать	verb	to remind, to resemble
+1024	заставить	verb	to force
+1025	линия	noun	line
+1026	поговорить	verb	to have a talk
+1027	мешок	noun	bag
+1028	наверно	adv	probably
+1029	бабушка	noun	grandmother
+1030	крик	noun	cry
+1031	рот	noun	mouth
+1032	сутки	noun	twenty-four hours
+1033	малый	adj	little, small-scale
+1034	ключ	noun	key
+1035	звонить	verb	to ring, to call
+1036	процент	noun	percentage
+1037	ощущение	noun	sensation
+1038	немедленно	adv	immediately
+1039	остров	noun	island
+1040	конь	noun	horse
+1041	объявить	verb	to declare
+1042	узкий	adj	narrow
+1043	театр	noun	theater
+1044	живот	noun	stomach
+1045	производство	noun	production
+1046	штаб	noun	headquarters(military)
+1047	детство	noun	childhood
+1048	резко	adv	sharply
+1049	придумать	verb	to invent, to contrive
+1050	броситься	verb	to rush, to jump at
+1051	сотня	noun	hundred
+1052	попытаться	verb	to attempt
+1053	стакан	noun	glass container
+1054	всякий	adj	every, any
+1055	умный	adj	clever
+1056	трое	card	three
+1057	материал	noun	material
+1058	ужас	noun	horror
+1059	схватить	verb	to seize, to grip
+1060	приняться	verb	to start
+1061	значение	noun	value, meaning
+1062	труба	noun	pipe
+1063	отказаться	verb	to refuse
+1064	виноватый	adj	guilty
+1065	стихи	noun	verses
+1066	способ	noun	method
+1067	обстоятельство	noun	circumstance
+1068	четвертый	ord	fourth
+1069	степень	noun	degree
+1070	германия	noun	germany
+1071	ссср	noun	ussr
+1072	отправиться	verb	to leave, set off/out
+1073	вставать	verb	to arise, stand up
+1074	волна	noun	wave
+1075	обратиться	verb	to turn, to address
+1076	плохой	adj	bad, amiss
+1077	мертвый	adj	dead
+1078	предлагать	verb	to propose
+1079	глубина	noun	depth
+1080	специальный	adj	special
+1081	представитель	noun	representative
+1082	нож	noun	knife
+1083	точный	adj	precise
+1084	рынок	noun	market
+1085	шум	noun	noise
+1086	студент	noun	student
+1087	впечатление	noun	impression
+1088	засмеяться	verb	to laugh
+1089	отдел	noun	division
+1090	запад	noun	west
+1091	очко	noun	point
+1092	падать	verb	to fall
+1093	закончить	verb	to finish
+1094	снимать	verb	to remove
+1095	успех	noun	success
+1096	инженер	noun	engineer
+1097	население	noun	population
+1098	животный	adj	animal
+1099	встречаться	verb	to encounter, to meet
+1100	некий	pron	certain
+1101	вдоль	prep	along, lengthwise
+1102	пыль	noun	dust
+1103	следить	verb	to watch, to follow
+1104	зайти	verb	to visit
+1105	спасти	verb	to save
+1106	знание	noun	knowledge
+1107	различный	adj	different, various
+1108	секретарь	noun	secretary
+1109	побежать	verb	to start running
+1110	ошибка	noun	error
+1111	боец	noun	soldier
+1112	женский	adj	female
+1113	масса	noun	mass
+1114	черта	noun	features
+1115	одновременно	adv	simultaneously
+1116	царь	noun	emperor
+1117	естественно	adv	naturally
+1118	позволять	verb	to allow
+1119	закрыть	verb	to shut
+1120	фигура	noun	figure
+1121	велеть	verb	to order
+1122	противник	noun	enemy
+1123	даль	noun	distance
+1124	знаменитый	adj	famous
+1125	нормальный	adj	normal
+1126	журнал	noun	periodical
+1127	направление	noun	direction
+1128	замок	noun	lock, castle
+1129	иметься	verb	be available
+1130	победа	noun	victory
+1131	суметь	verb	to be able
+1132	сотрудник	noun	colleague
+1133	заговорить	verb	to start talking
+1134	несколько	pron	several, a few
+1135	крепкий	adj	strong
+1136	подниматься	verb	to rise
+1137	вытащить	verb	to take out
+1138	редкий	adj	rare
+1139	мягкий	adj	soft
+1140	всякий всякая	pron	anybody, everyone
+1141	городской	adj	urban
+1142	социальный	adj	social
+1143	адрес	noun	address
+1144	обращаться	verb	to address
+1145	период	noun	period
+1146	еврей	noun	jewish
+1147	слух	noun	rumor
+1148	пользоваться	verb	to use
+1149	клуб	noun	club
+1150	верно	adv	aright, correct
+1151	хвост	noun	tail
+1152	восемь	card	eight
+1153	пошлый	adj	vulgar, banal
+1154	предмет	noun	object
+1155	честь	noun	honor
+1156	общественный	adj	public
+1157	открывать	verb	to open
+1158	отдельный	adj	separate
+1159	лечение	noun	treatment
+1160	экономический	adj	economic
+1161	взяться	verb	to undertake
+1162	встретиться	verb	to meet, get together
+1163	зрение	noun	sight
+1164	замечать	verb	to note
+1165	наблюдать	verb	to observe
+1166	наоборот	adv	vice versa, conversely
+1167	голый	adj	naked
+1168	круглый	adj	round
+1169	беда	noun	misfortune
+1170	столица	noun	capital city
+1171	обед	noun	dinner
+1172	грязный	adj	dirty
+1173	опустить	verb	to lower
+1174	культура	noun	culture
+1175	спешить	verb	to hurry
+1176	высота	noun	height
+1177	территория	noun	territory
+1178	костюм	noun	suit
+1179	светлый	adj	bright
+1180	деревянный	adj	wooden
+1181	гораздо	adv	much
+1182	громко	adv	loudly
+1183	поздно	adv	late, out of time
+1184	обернуться	verb	to turn one&#39, s face
+1185	попытка	noun	attempt
+1186	дно	noun	bottom
+1187	пятьдесят	card	fifty
+1188	остановить	verb	to stop
+1189	полностью	adv	completely
+1190	страница	noun	page
+1191	лишний	adj	superfluous, extra
+1192	многое	pron	much
+1193	еда	noun	food
+1194	размер	noun	size
+1195	курить	verb	to smoke
+1196	состоять	verb	to consist
+1197	предприятие	noun	enterprise
+1198	сцена	noun	scene
+1199	английский	adj	english
+1200	проснуться	verb	to awake
+1201	устроить	verb	to arrange
+1202	понравиться	verb	to please, to like
+1203	явиться	verb	to appear
+1204	фотография	noun	photograph
+1205	заболевание	noun	disease
+1206	принцип	noun	principle
+1207	миг	noun	moment
+1208	европа	noun	europe
+1209	платить	verb	to pay
+1210	помочь	verb	to assist, to help
+1211	нынешний	adj	present
+1212	вероятно	adv	probably
+1213	тетя	noun	aunt
+1214	лечь	verb	to lie down
+1215	мастер	noun	master
+1216	отряд	noun	detachment, squadron
+1217	старуха	noun	old woman
+1218	руководитель	noun	leader
+1219	житель	noun	inhabitant
+1220	меч	noun	sword
+1221	научный	adj	scientific
+1222	дышать	verb	to breathe
+1223	господь господи	noun	the Lord, God
+1224	наиболее	adv	most
+1225	тюрьма	noun	prison
+1226	ой	interj	oh! o dear!, ouch
+1227	подождать	verb	to wait
+1228	ближайший	adj	nearest
+1229	внутри	prep	inside, within
+1230	дворец	noun	palace
+1231	яркий	adj	bright
+1232	ученый	adj	scientific, trained
+1233	камера	noun	camera
+1234	привезти	verb	to bring
+1235	существо	noun	creature, essence
+1236	билет	noun	ticket
+1237	соседний	adj	neighboring, adjacent
+1238	фраза	noun	phrase
+1239	повторять	verb	to repeat
+1240	америка	noun	America
+1241	весна	noun	spring
+1242	лодка	noun	boat
+1243	считаться	verb	to be counted
+1244	фильм	noun	film
+1245	родиться	verb	to be borne
+1246	больница	noun	hospital
+1247	смех	noun	laughter
+1248	специалист	noun	specialist
+1249	образование	noun	formation, education
+1250	спасть	verb	to fall, to decline
+1251	пятый	ord	fifth
+1252	мальчишка	noun	boy
+1253	проговорить	verb	to speak
+1254	выбрать	verb	to select
+1255	тяжело	adv	heavily, hard
+1256	определенный	adj	special, definite
+1257	продукт	noun	product
+1258	пистолет	noun	pistol
+1259	раздаться	verb	be heard
+1260	постепенно	adv	gradually
+1261	родина	noun	native land
+1262	возможный	adj	possible
+1263	личность	noun	personality
+1264	собственно	adv	strictly
+1265	собрать	verb	to gather
+1266	насчет	prep	about, as regards, concerning
+1267	внимательно	adv	heedfully, observantly
+1268	скорость	noun	speed
+1269	участок	noun	section
+1270	учить	verb	to teach, to learn
+1271	технический	adj	technical
+1272	видимый	adj	visible
+1273	текст	noun	text
+1274	зверь	noun	beast
+1275	вслед	prep	after, behind
+1276	ездить	verb	to drive
+1277	злой	adj	wicked, evil
+1278	извинить	verb	to excuse
+1279	дикий	adj	wild
+1280	народный	adj	people
+1281	артист	noun	artist
+1282	усмехнуться	verb	to smile, to sneer
+1283	автомобиль	noun	automobile
+1284	участие	noun	participation
+1285	кот	noun	cat
+1286	мост	noun	bridge
+1287	примерно	adv	approximately
+1288	находить	verb	to find
+1289	здоровье	noun	health
+1290	костер	noun	bonfire
+1291	заходить	verb	to go in
+1292	человечество	noun	humanity
+1293	пуля	noun	bullet
+1294	сомнение	noun	doubt
+1295	морской	adj	sea
+1296	отсутствие	noun	absence
+1297	случайно	adv	by chance
+1298	сложный	adj	complex
+1299	мясо	noun	meat
+1300	нечто	pron	something
+1301	собирать	verb	to gather
+1302	отметить	verb	to note
+1303	исторический	adj	historical
+1304	читатель	noun	reader
+1305	доска	noun	board
+1306	убийство	noun	murder
+1307	дальний	adj	distant
+1308	тянуть	verb	to pull
+1309	мгновение	noun	instant
+1310	восток	noun	east
+1311	обратить	verb	to turn, to convert
+1312	отпустить	verb	to let go
+1313	бегать	verb	to run
+1314	настроение	noun	mood
+1315	означать	verb	to indicate
+1316	составлять	verb	to comprise
+1317	реальный	adj	real
+1318	пауза	noun	pause
+1319	прием	noun	admission
+1320	порог	noun	threshold, doorstep
+1321	фон	noun	background
+1322	национальный	adj	national
+1323	выдержать	verb	to withstand
+1324	ясный	adj	clear
+1325	весело	adv	cheerily, gaily
+1326	пропасть	verb	disappear
+1327	рыжий	adj	red
+1328	постоянно	adv	constantly
+1329	песок	noun	sand
+1330	долг	noun	debt
+1331	настолько	adv	so
+1332	пьяный	adj	drunk
+1333	поступить	verb	to enter, to behave
+1334	предложение	noun	proposal
+1335	внешний	adj	external
+1336	работник	noun	worker
+1337	проверить	verb	to verify
+1338	отправить	verb	to send
+1339	прекрасно	adv	wonderful
+1340	наступить	verb	to begin, act on the offensive
+1341	объяснять	verb	to explain
+1342	сожаление	noun	regret
+1343	пожать	verb	to shake
+1344	сверху	prep	on top, from above
+1345	торчать	verb	to stick out
+1346	оставлять	verb	to leave
+1347	горло	noun	throat
+1348	навстречу	adv	towards
+1349	ресторан	noun	restaurant
+1350	список	noun	list
+1351	задний	adj	rear
+1352	праздник	noun	holiday
+1353	покой	noun	rest
+1354	шутка	noun	joke
+1355	автобус	noun	bus
+1356	рада	noun	ukrainian parlament
+1357	летний	adj	summer
+1358	вариант	noun	version
+1359	занимать	verb	to occupy
+1360	дыхание	noun	breath, respiration
+1361	признаться	verb	to confess, to acknowledge
+1362	организм	noun	organism
+1363	дрожать	verb	to shake
+1364	поймать	verb	to catch
+1365	опасный	adj	dangerous
+1366	жертва	noun	victim
+1367	далее	adv	further
+1368	начальство	noun	authorities
+1369	каменный	adj	rock
+1370	рукав	noun	sleeve
+1371	занятие	noun	occupation
+1372	северный	adj	northern
+1373	признать	verb	to recognize
+1374	охрана	noun	protection
+1375	бедный	adj	poor
+1376	постоянный	adj	constant
+1377	масло	noun	butter, oil
+1378	сунуть	verb	to pop into, to put
+1379	захотеть	verb	to want
+1380	дорогой	adv	by road
+1381	кость	noun	bone
+1382	международный	adj	international
+1383	воскликнуть	verb	to exclaim out
+1384	пиво	noun	beer
+1385	полтора	card	one and half
+1386	принятый	adj	accepted
+1387	вскочить	verb	to jump
+1388	центральный	adj	central
+1389	чиновник	noun	official
+1390	эхо	noun	echo
+1391	внизу	prep	below, beneath
+1392	здравствовать	verb	to be in good health
+1393	потолок	noun	ceiling
+1394	легкое	noun	lung
+1395	руководство	noun	management
+1396	защита	noun	protection
+1397	разрешить	verb	to permit, to solve
+1398	важно	adv	important
+1399	энергия	noun	energy
+1400	звонок	noun	bell
+1401	построить	verb	to build
+1402	сигарета	noun	cigarette
+1403	закрытый	adj	closed
+1404	пустить	verb	to release
+1405	тепло	noun	warmth, heat
+1406	кошка	noun	cat
+1407	установить	verb	to establish
+1408	зона	noun	zone
+1409	диван	noun	sofa
+1410	встречать	verb	to meet
+1411	внезапно	adv	suddenly
+1412	предел	noun	limit
+1413	единый	adj	united
+1414	напротив	prep	opposite to, across the way
+1415	зря	adv	in vain
+1416	полагать	verb	to assume
+1417	перейти	verb	to go over, to pass
+1418	мечтать	verb	to dream
+1419	пятнадцать	card	fifteen
+1420	терять	verb	to lose
+1421	трудный	adj	difficult
+1422	испытывать	verb	to experience
+1423	постель	noun	bed
+1424	тайна	noun	secret
+1425	лезть	verb	to climb
+1426	туман	noun	fog
+1427	древний	adj	ancient
+1428	бросать	verb	to throw
+1429	книжка	noun	book
+1430	жалко	adv	pitiful
+1431	воспоминание	noun	recollection
+1432	оглянуться	verb	to look back
+1433	ленинград	noun	leningrad
+1434	густой	adj	thick
+1435	практически	adv	practically
+1436	вечный	adj	eternal
+1437	существование	noun	existence
+1438	сзади	prep	behind
+1439	королева	noun	queen
+1440	принадлежать	verb	to belong
+1441	вход	noun	entrance
+1442	церковь	noun	church
+1443	преступление	noun	crime
+1444	музей	noun	museum
+1445	планета	noun	planet
+1446	опасность	noun	danger
+1447	прочитать	verb	to read
+1448	говориться	verb	to speak
+1449	пускать	verb	to release
+1450	прочий	pron	other
+1451	болеть	verb	to be ill
+1452	положенный	adj	prescribed, authorized
+1453	иностранный	adj	foreign
+1454	низкий	adj	low
+1455	поиск	noun	search
+1456	палатка	noun	tent
+1457	пригласить	verb	to invite
+1458	добраться	verb	to reach
+1459	французский	adj	french
+1460	источник	noun	source
+1461	честно	adv	honestly
+1462	основание	noun	base
+1463	видать	verb	to see
+1464	родственник	noun	relative
+1465	угодный	adj	acceptable
+1466	выступать	verb	to come out, to act
+1467	определить	verb	to determine
+1468	взрослый	adj	adult
+1469	заглянуть	verb	to glance
+1470	осень	noun	autumn
+1471	представление	noun	presentation, idea
+1472	способность	noun	ability
+1473	понятие	noun	notion, concept
+1474	тон	noun	tone
+1475	итак	adv	thus
+1476	аппарат	noun	apparatus
+1477	водитель	noun	driver
+1478	утверждать	verb	to assert
+1479	глупый	adj	foolish
+1480	больно	adv	painfully
+1481	тайный	adj	secret
+1482	крыло	noun	wing
+1483	изменение	noun	change
+1484	беседа	noun	conversation
+1485	пост	noun	post
+1486	вывод	noun	conclusion, withdrawal
+1487	комиссия	noun	commission
+1488	стоить	verb	to cost
+1489	множество	noun	great number, multitude
+1490	явление	noun	phenomenon, appearance
+1491	торопиться	verb	to hurry
+1492	розовый	adj	pink
+1493	вынуть	verb	to take out
+1494	красота	noun	beauty
+1495	дальнейший	adj	further, future
+1496	мороз	noun	frost
+1497	дача	noun	dacha
+1498	очевидно	adv	obviously
+1499	пастух	noun	herdsman
+1500	вернуть	verb	to return
+1501	рано	adv	early
+1502	строить	verb	to construct, to build
+1503	борода	noun	beard
+1504	догадаться	verb	dawn upon, to surmise
+1505	остальное	noun	rest
+1506	младший	adj	junior, younger
+1507	строго	adv	strict
+1508	площадка	noun	playground
+1509	ниже	adv	below
+1510	усилие	noun	effort
+1511	приятель	noun	friend
+1512	честный	adj	honest
+1513	ручка	noun	knob, pen
+1514	повернуть	verb	to turn
+1515	расти	verb	to grow
+1516	столик	noun	table
+1517	журналист	noun	journalist
+1518	наверняка	adv	for sure
+1519	выстрел	noun	shot
+1520	озеро	noun	lake
+1521	разобраться	verb	to understand, to unpack
+1522	приятно	adv	enjoyably
+1523	сумка	noun	bag
+1524	кино	noun	cinema
+1525	должность	noun	occupation, position
+1526	зло	noun	evil
+1527	позиция	noun	attitude, position
+1528	поглядеть	verb	to have a look
+1529	готовить	verb	to prepare, to cook
+1530	верхний	adj	upper
+1531	удивление	noun	surprise
+1532	следователь	noun	inspector
+1533	ученик	noun	student
+1534	серьезно	adv	seriously
+1535	приятный	adj	pleasant
+1536	основа	noun	basis, foundation
+1537	горе	noun	grief
+1538	выскочить	verb	to jump out
+1539	повезти	verb	to transport
+1540	рождение	noun	birth
+1541	песня	noun	song
+1542	готовиться	verb	to prepare
+1543	полка	noun	shelf
+1544	выполнять	verb	to carry out
+1545	старшина	noun	first sergeant
+1546	колесо	noun	wheel
+1547	вряд ли	adv	hardly
+1548	шофер	noun	driver
+1549	проект	noun	project
+1550	совесть	noun	conscience
+1551	навсегда	adv	forever
+1552	зависеть	verb	to depend
+1553	суть	noun	essence
+1554	режим	noun	regime
+1555	поднимать	verb	to raise, to pick up
+1556	стена	noun	wall
+1557	чемодан	noun	suitcase, trunk
+1558	платье	noun	dress, gown, frock
+1559	возразить	verb	to object
+1560	хозяйство	noun	economy, farm
+1561	полиция	noun	police
+1562	пункт	noun	point
+1563	ствол	noun	stem
+1564	толк	noun	sense
+1565	вкус	noun	taste
+1566	приезжать	verb	to arrive
+1567	тотчас	adv	immediately
+1568	добро	noun	good
+1569	портрет	noun	portrait
+1570	спустя	prep	after, later
+1571	полк	noun	regiment
+1572	кофе	noun	coffee
+1573	отделение	noun	department
+1574	подать	verb	to give, to serve
+1575	обстановка	noun	situation
+1576	пятно	noun	spot
+1577	жениться	verb	to marry
+1578	бровь	noun	eyebrow
+1579	телевизор	noun	television set
+1580	найтись	verb	to be located
+1581	звучать	verb	to sound
+1582	база	noun	base
+1583	отличаться	verb	to differ
+1584	отдавать	verb	to give back
+1585	тревога	noun	anxiety
+1586	послушать	verb	to listen to
+1587	помещение	noun	lodging, room, investment
+1588	русский	noun	russian
+1589	делаться	verb	to be done
+1590	перевести	verb	to transfer
+1591	урок	noun	lesson
+1592	выдать	verb	to give out
+1593	поведение	noun	behavior
+1594	создание	noun	creation
+1595	собрание	noun	meeting
+1596	дедушка	noun	grand-dad
+1597	безопасность	noun	safety
+1598	нервный	adj	nervous
+1599	функция	noun	function
+1600	нарушение	noun	disturbance
+1601	требоваться	verb	to be required
+1602	экран	noun	screen
+1603	забрать	verb	to take away
+1604	шапка	noun	cap, hat
+1605	убивать	verb	to kill
+1606	выпустить	verb	to let out
+1607	полоса	noun	strip
+1608	хозяйка	noun	mistress, housewife
+1609	штаны	noun	pants
+1610	врать	verb	to lie
+1611	грязь	noun	mud
+1612	жалить	verb	to sting
+1613	заявление	noun	statement
+1614	нижний	adj	lower
+1615	жалеть	verb	to regret, to pity
+1616	труп	noun	corpse
+1617	неожиданный	adj	unexpected
+1618	занятый	adj	occupied
+1619	подарок	noun	gift
+1620	рубашка	noun	shirt, chemise
+1621	август	noun	august
+1622	превратиться	verb	to turn into
+1623	крепко	adv	firmly
+1624	объект	noun	object
+1625	открыться	verb	to be opened
+1626	мощный	adj	powerful
+1627	университет	noun	university
+1628	охота	noun	hunting
+1629	штука	noun	piece, thing
+1630	муха	noun	fly
+1631	обойтись	verb	to manage, to do without
+1632	махнуть	verb	to wave
+1633	довольный	adj	pleased, contented
+1634	твердый	adj	solid
+1635	молоко	noun	milk
+1636	катить	verb	to roll
+1637	отчего	adv	why
+1638	никуда	adv	nowhere
+1639	вынужденный	adj	forced
+1640	направить	verb	to direct
+1641	буква	noun	letter, character
+1642	полезть	verb	to climb
+1643	вершина	noun	peak, summit
+1644	поверхность	noun	surface
+1645	терпеть	verb	to tolerate, to suffer
+1646	рассматривать	verb	to examine
+1647	сходить	verb	to get off, to descend
+1648	обращать	verb	to turn to, to transform
+1649	больший	adj	larger
+1650	товар	noun	goods
+1651	доказать	verb	to prove
+1652	лапа	noun	paw
+1653	одетый	adj	dressed
+1654	спуститься	verb	to go down
+1655	гостиница	noun	hotel
+1656	воевать	verb	to be at war
+1657	абсолютно	adv	absolutely
+1658	продать	verb	to sell
+1659	середина	noun	middle
+1660	солнечный	adj	sunny, solar
+1661	назначить	verb	to appoint
+1662	домашний	adj	domestic
+1663	бригада	noun	brigade, team
+1664	прочесть	verb	to read
+1665	богатый	adj	rich
+1666	признак	noun	sign
+1667	среда	noun	environment, wednesday
+1668	политика	noun	politics, policy
+1669	капля	noun	drop
+1670	вес	noun	weight
+1671	измениться	verb	to change
+1672	комитет	noun	committee
+1673	отойти	verb	to go away
+1674	плащ	noun	raincoat
+1675	нету	predicate	there is no, there are no
+1676	поток	noun	flow
+1677	решать	verb	to decide, to solve
+1678	вырасти	verb	to grow
+1679	познакомиться	verb	to be introduced
+1680	занять	verb	to engage
+1681	гулять	verb	to go for a walk
+1682	посадить	verb	to plant
+1683	бледный	adj	pale
+1684	стремиться	verb	to strive
+1685	составить	verb	to comprise
+1686	задуматься	verb	to think
+1687	холод	noun	cold
+1688	париж	noun	paris
+1689	незнакомый	adj	unfamiliar, unknown
+1690	решительно	adv	decisively
+1691	позвать	verb	to call, to invite
+1692	выполнить	verb	to carry out
+1693	записка	noun	note
+1694	появление	noun	appearance
+1695	платок	noun	shawl
+1696	двинуться	verb	to move
+1697	обладать	verb	to possess
+1698	успокоиться	verb	to be quieted
+1699	забывать	verb	to forget
+1700	обязанный	adj	obliged
+1701	корпус	noun	body frame, building
+1702	останавливаться	verb	to stop
+1703	захватить	verb	to capture, to grasp
+1704	близко	adv	closely
+1705	окончательно	adv	conclusively
+1706	сведение	noun	information
+1707	удивительный	adj	surprising, amazing
+1708	волноваться	verb	to worry
+1709	забор	noun	fence
+1710	октябрь	noun	october
+1711	строй	noun	system
+1712	морда	noun	snout
+1713	прожить	verb	to live
+1714	редко	adv	rarely
+1715	изменить	verb	to change
+1716	краска	noun	paint
+1717	темно	adv	dark, gloomy
+1718	спорить	verb	to argue
+1719	кружок	noun	circle
+1720	состояться	verb	to take place
+1721	могила	noun	grave
+1722	приводить	verb	to bring
+1723	облако	noun	cloud
+1724	шкаф	noun	cabinet
+1725	варить	verb	to cook, to boil
+1726	милиционер	noun	militiaman, policeman
+1727	сумма	noun	sum
+1728	святой	adj	saint
+1729	сеть	noun	network, netting
+1730	грех	noun	sin
+1731	помолчать	verb	to be silent
+1732	ожидание	noun	expectation
+1733	необходимость	noun	need
+1734	инспектор	noun	inspector
+1735	сообщение	noun	message, information
+1736	стенка	noun	wall
+1737	подъезд	noun	porch, entrance
+1738	слышно	adv	audibly
+1739	напомнить	verb	to resemble, to remind
+1740	парк	noun	park
+1741	физический	adj	physical
+1742	вокзал	noun	railway station
+1743	несчастный	adj	unhappy
+1744	орать	verb	to yell
+1745	глухой	adj	deaf
+1746	бороться	verb	to fight
+1747	дойти	verb	to reach, to come to
+1748	включить	verb	to include, to switch on
+1749	борт	noun	board, side(of the ship)
+1750	сумасшедший	adj	mad
+1751	интересовать	verb	to interest
+1752	умирать	verb	to die
+1753	убитый	adj	killed
+1754	взрыв	noun	explosion
+1755	особенный	adj	special
+1756	еле	adv	hardly
+1757	расстояние	noun	distance
+1758	локоть	noun	elbow
+1759	актер	noun	actor
+1760	усы	noun	moustache
+1761	прибыть	verb	to arrive
+1762	куртка	noun	jacket
+1763	заставлять	verb	to force
+1764	соответствующий	adj	appropriate
+1765	частный	adj	private
+1766	ох	interj	oh
+1767	официальный	adj	official
+1768	луна	noun	moon
+1769	скала	noun	cliff
+1770	экономика	noun	economy
+1771	мужской	adj	male, masculine
+1772	подтвердить	verb	to confirm
+1773	тянуться	verb	to be pulled
+1774	обыкновенный	adj	usual
+1775	песнь	noun	canto, song
+1776	здорово	adv	healthy -
+1777	буквально	adv	literally
+1778	испугаться	verb	to frighten
+1779	пожилой	adj	elderly
+1780	резкий	adj	sharp, harsh, keen
+1781	шинель	noun	overcoat, uniform jacket
+1782	лед	noun	ice
+1783	волк	noun	wolf
+1784	структура	noun	structure
+1785	сержант	noun	sergeant
+1786	совершить	verb	to accomplish, to commit
+1787	съесть	verb	to eat
+1788	клетка	noun	cage, cell
+1789	поколение	noun	generation
+1790	газ	noun	fume, gas
+1791	значительный	adj	significant
+1792	пила	noun	saw
+1793	файл	noun	file
+1794	кругом	adv	around
+1795	орудие	noun	instrument
+1796	коллега	noun	colleague, associate
+1797	запомнить	verb	to memorize
+1798	просьба	noun	request
+1799	согласный	adj	agreeable
+1800	выбор	noun	selection
+1801	седой	adj	grey
+1802	куча	noun	heap, pile
+1803	корень	noun	root
+1804	блестящий	adj	shining
+1805	содержание	noun	content
+1806	разница	noun	difference
+1807	непонятный	adj	incomprehensible
+1808	остаток	noun	remainder
+1809	расчет	noun	calculation
+1810	приближаться	verb	to approach
+1811	чисто	adv	cleanly
+1812	участвовать	verb	to participate
+1813	восточный	adj	eastern
+1814	ловить	verb	to catch
+1815	температура	noun	temperature
+1816	республика	noun	republic
+1817	пояс	noun	belt
+1818	удивляться	verb	to be surprised
+1819	сомневаться	verb	to doubt
+1820	шепот	noun	whisper
+1821	сентябрь	noun	september
+1822	дивизия	noun	division(military)
+1823	гриб	noun	mushroom, fungus
+1824	сравнение	noun	comparison
+1825	строгий	adj	strict
+1826	замереть	verb	to stand still
+1827	бабка	noun	grandmother
+1828	гражданский	adj	civil
+1829	записать	verb	to write down
+1830	реакция	noun	reaction
+1831	тоска	noun	melancholy
+1832	поселок	noun	settlement
+1833	полчаса	noun	half-hour
+1834	кольцо	noun	ring
+1835	достоинство	noun	dignity, merit
+1836	двенадцать	card	twelve
+1837	радоваться	verb	to be glad
+1838	вывести	verb	to derive
+1839	создавать	verb	to create
+1840	слой	noun	layer
+1841	подарить	verb	to present, to give away
+1842	оттого	adv	that is why
+1843	страсть	noun	passion
+1844	ровно	adv	exactly, precisely
+1845	напряжение	noun	stress
+1846	столовый	adj	table
+1847	стыдный	adj	shameful
+1848	коммунист	noun	communist
+1849	глянуть	verb	to cast a look
+1850	участник	noun	participant
+1851	подруга	noun	(female) friend
+1852	изба	noun	cottage
+1853	голод	noun	hunger
+1854	замечательный	adj	remarkable
+1855	временный	adj	temporary
+1856	пес	noun	dog
+1857	заместитель	noun	deputy, assistant
+1858	истина	noun	truth
+1859	колонна	noun	column, pillar
+1860	мгновенно	adv	instantly
+1861	прикрыть	verb	to cover
+1862	оборона	noun	defense
+1863	скрывать	verb	to hide, to conceal
+1864	поступать	verb	to enter, to act
+1865	поразить	verb	to strike, to amaze
+1866	везти	verb	to carry
+1867	предстоять	verb	to be in prospect
+1868	элемент	noun	element
+1869	пиджак	noun	coat
+1870	приносить	verb	to bring
+1871	убедиться	verb	to be convinced
+1872	телефонный	adj	telephone
+1873	крыльцо	noun	porch
+1874	отличие	noun	difference
+1875	брюки	noun	trousers, pants
+1876	исследование	noun	study
+1877	орден	noun	order, medal
+1878	юный	adj	young
+1879	научиться	verb	to learn
+1880	техника	noun	technology
+1881	сойти	verb	to descend
+1882	канал	noun	channel
+1883	девчонка	noun	girl
+1884	горький	adj	bitter
+1885	крест	noun	cross
+1886	печальный	adj	sad
+1887	теория	noun	theory
+1888	луч	noun	ray
+1889	молчание	noun	silence
+1890	литературный	adj	literary
+1891	батарея	noun	battery
+1892	устройство	noun	device
+1893	палка	noun	stick
+1894	тащить	verb	to drag
+1895	фонарь	noun	lamp
+1896	лесной	adj	forest
+1897	естественный	adj	natural
+1898	контроль	noun	control
+1899	крутой	adj	steep
+1900	произвести	verb	to produce
+1901	проклятый	adj	cursed
+1902	покрыть	verb	to cover
+1903	глубоко	adv	deeply
+1904	страдать	verb	to suffer
+1905	ветка	noun	branch
+1906	влияние	noun	influence
+1907	разведка	noun	reconnaissance
+1908	справа	adv	to the right
+1909	девять	card	nine
+1910	польза	noun	benefit
+1911	дочка	noun	daughter
+1912	надпись	noun	inscription
+1913	ненавидеть	verb	to hate
+1914	истинный	adj	true
+1915	обезьяна	noun	monkey
+1916	замолчать	verb	to become silent
+1917	твердо	adv	solidly
+1918	склад	noun	storage
+1919	передний	adj	front
+1920	север	noun	north
+1921	покупать	verb	to buy
+1922	печать	noun	press
+1923	крестьянин	noun	peasant
+1924	южный	adj	southern
+1925	пальто	noun	coat
+1926	любопытство	noun	curiosity
+1927	тарелка	noun	plate
+1928	следствие	noun	consequence, investigation
+1929	насколько	adv	how
+1930	выбирать	verb	to select
+1931	заранее	adv	in advance
+1932	семейный	adj	family
+1933	продолжаться	verb	to continue
+1934	громкий	adj	loud
+1935	подписать	verb	to sign
+1936	выясниться	verb	to be explained
+1937	ракета	noun	rocket
+1938	заняться	verb	to study, to engage in
+1939	завести	verb	to get, to start
+1940	зарплата	noun	salary
+1941	топор	noun	axe
+1942	убийца	noun	killer
+1943	сообразить	verb	to consider, to grasp
+1944	сущность	noun	essence
+1945	сперва	adv	first
+1946	одинокий	adj	lonely
+1947	сохранить	verb	to preserve
+1948	домик	noun	house
+1949	менять	verb	to change
+1950	запись	noun	record
+1951	пожар	noun	fire
+1952	пачка	noun	pack, bundle
+1953	ага	interj	aha
+1954	широко	adv	wide
+1955	указать	verb	to indicate, to point out
+1956	спрятать	verb	to hide
+1957	свидетель	noun	witness
+1958	привычный	adj	customary
+1959	пища	noun	food
+1960	забота	noun	concern
+1961	таков	pron	such
+1962	открытие	noun	discovery
+1963	девица	noun	girl
+1964	ощущать	verb	to feel, to experience
+1965	специально	adv	specially, intentionally
+1966	вождь	noun	leader
+1967	одеяло	noun	blanket
+1968	храм	noun	temple
+1969	стучать	verb	to knock
+1970	сделаться	verb	to make
+1971	летать	verb	to fly
+1972	пассажир	noun	passenger
+1973	строительство	noun	building
+1974	поездка	noun	trip
+1975	рана	noun	wound
+1976	веревка	noun	rope
+1977	погода	noun	weather
+1978	двести	card	two hundred
+1979	валить	verb	to bring down
+1980	паспорт	noun	passport
+1981	привычка	noun	habit
+1982	холм	noun	hill
+1983	сдать	verb	to return
+1984	благодаря	prep	thanks to, owing to
+1985	сообщать	verb	to let know, to report
+1986	подавать	verb	to give
+1987	устать	verb	to get tired
+1988	скрыться	verb	to be hidden
+1989	шоссе	noun	highway
+1990	могучий	adj	powerful
+1991	поворот	noun	turning
+1992	восторг	noun	delight, enthusiasm
+1993	мечта	noun	dream
+1994	кабина	noun	cab
+1995	картошка	noun	potato
+1996	дождаться	verb	to wait until
+1997	уничтожить	verb	to destroy
+1998	земной	adj	terrestrial
+1999	надоесть	verb	to tire, to pester
